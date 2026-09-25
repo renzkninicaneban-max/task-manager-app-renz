@@ -4,7 +4,7 @@
 
 **Project Code:** WST21-PM-2026-SF
 
-**Student Name:** RENZ CAÑEBAN
+**Student Name:** RENZ RENATO CAÑEBAN
 
 **Course & Year:** YOUR COURSE & YEAR
 
